@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+  <diagram name="Page-1" id="WS8-BDc0i_rZHXzA7GtR">
+    <mxGraphModel dx="1134" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9m2cYU1BHPZYiaqyaieb-2" value="&lt;b&gt;Home&lt;/b&gt;.&lt;b&gt;java&lt;/b&gt;&lt;div&gt;&lt;b&gt;Interface&lt;br&gt;&lt;/b&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Public void&amp;nbsp;&lt;span style=&quot;background-color: rgb(232, 242, 254); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;login()&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;public void&amp;nbsp;&lt;span style=&quot;background-color: rgb(232, 242, 254); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;register()&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Public void&amp;nbsp;&lt;span style=&quot;background-color: rgb(232, 242, 254); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;detailofCompany1()&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;public void&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(232, 242, 254); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;detailofCompany2();&lt;/span&gt;&lt;/div&gt;&lt;div&gt;public void&amp;nbsp;&lt;span style=&quot;background-color: rgb(232, 242, 254); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;detailofCompany3();&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(232, 242, 254); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;public void &lt;/span&gt;&lt;span style=&quot;background-color: rgb(232, 242, 254); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;Employee_Details();&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(232, 242, 254); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="70" y="140" width="260" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="9m2cYU1BHPZYiaqyaieb-7" value="&lt;div&gt;&lt;b&gt;DetailsField&lt;/b&gt;.&lt;b&gt;java&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;abstact public void Employee_Details();&lt;/div&gt;&lt;div&gt;public void Welcome();&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="350" y="140" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="9m2cYU1BHPZYiaqyaieb-9" value="&lt;b&gt;LoginVerication.&lt;/b&gt;java&lt;div&gt;public boolean LoginVerifcation();&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="610" y="140" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9m2cYU1BHPZYiaqyaieb-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="9m2cYU1BHPZYiaqyaieb-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="475" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9m2cYU1BHPZYiaqyaieb-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="9m2cYU1BHPZYiaqyaieb-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="196" y="350" as="sourcePoint" />
+            <mxPoint x="450" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="74nNFIbeCmRwLUeOMIad-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="9m2cYU1BHPZYiaqyaieb-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="350" as="sourcePoint" />
+            <mxPoint x="410" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="74nNFIbeCmRwLUeOMIad-2" value="// create a class of Employee_Information&lt;div&gt;class Employee_Information&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;// impemeting Employee_Infterface&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;public void Login()&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;{&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;// business logic&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;}&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; public void register(){&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // business logic}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;public void DetailsOf comapny1(){&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // business logic&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // implementing abstract mehtod&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;public void DetailsOf comapny1(){&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // business logic&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;public void DetailsOf comapny3(){&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // business logic&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;public void EmployeeDetails(){&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // business logic&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;// accessing the abstract method&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;public void Welcome(){&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // business logic&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;&lt;div&gt;public boolean LoginVerifcation(){&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; main method&lt;/div&gt;&lt;div&gt;&amp;nbsp;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Implementing enum,switch case,static final&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;acessing Home.java class implementing by object creation&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; accessing all the method of employee interface and abstract class&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="152" y="610" width="800" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="74nNFIbeCmRwLUeOMIad-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="74nNFIbeCmRwLUeOMIad-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="74nNFIbeCmRwLUeOMIad-6" target="74nNFIbeCmRwLUeOMIad-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74nNFIbeCmRwLUeOMIad-6" value="&lt;b&gt;Implemented&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="152" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="74nNFIbeCmRwLUeOMIad-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="74nNFIbeCmRwLUeOMIad-8" target="74nNFIbeCmRwLUeOMIad-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74nNFIbeCmRwLUeOMIad-8" value="&lt;b&gt;IS-A&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="430" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="74nNFIbeCmRwLUeOMIad-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="74nNFIbeCmRwLUeOMIad-10" target="74nNFIbeCmRwLUeOMIad-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74nNFIbeCmRwLUeOMIad-10" value="HAS-A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="690" y="370" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
